@@ -1,0 +1,5 @@
+﻿${hello}这是正确的 <a href="/a/123">this is the link</a>
+<img src="https://www.google.com/images/srpr/logo3w.png"></img>
+<script type="text/javascript">
+alert("hello world");
+</script>
